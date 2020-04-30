@@ -1,0 +1,24 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #B62E40;
+    opacity: 0.9;
+}
+
+.footer a {
+  font-size: 30px;
+  color:  white;
+}
+
+.footer a:hover {
+  color:  pink;
+  opacity: 1;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer .fas {
+  color: white;
+}
